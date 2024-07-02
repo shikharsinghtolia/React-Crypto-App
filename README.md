@@ -1,0 +1,2 @@
+The Coin Search website is an interactive platform for tracking cryptocurrency prices. It provides real-time data on various cryptocurrencies, including their current prices, market caps, and 24-hour changes. The app offers a clean, user-friendly interface with options to search for specific cryptocurrencies and view detailed information about each one.
+Live link - : https://shikharsinghtolia.github.io/React-Crypto-App/
